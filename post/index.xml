@@ -10,5 +10,9 @@
     <webMaster>numbxyb@gmail.com (Daniel)</webMaster>
     <lastBuildDate></lastBuildDate>
     <atom:link href="https://dddaniel1.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>68624290515673088</feedId>
+      <userId>42931665273802752</userId>
+  </follow_challenge>
   </channel>
 </rss>
